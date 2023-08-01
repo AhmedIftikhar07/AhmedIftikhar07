@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @AhmedIftikhar07
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Html, Css & Java
+- 👀 A passionate and innovative web developer, and I'm thrilled to have you here!
+- 🌱 I’m currently learning Html , Css , JavaScript , React Js , Next Js.
+-  I specialize in building responsive and dynamic user interfaces using modern frontend technologies such as HTML, CSS, JavaScript, React js, and Next Js. I focus on 
+   creating intuitive and visually appealing experiences for users across different devices and platforms.
 - 💞️ I’m looking to collaborate on github.com
 - 📫 How to reach me 03302085576
 
